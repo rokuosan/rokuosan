@@ -6,6 +6,7 @@ Hobby: Sleeping😴<br>
 名前: ロクオ<br>
 身分: 高校生<br>
 趣味: 寝ること <br>
+一言: 公開しているリポジトリは古いものだったりします。
 
 # Social Link / 各種リンク
 - [Twitter](https://twitter.com/rokuosan_dev)
