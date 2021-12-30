@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rokuosan&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rokuosan&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
 # Self Introduce / 自己紹介
 Name: rokuo<br>
 Status: High School Student<br>
