@@ -14,7 +14,7 @@ Hobby: Sleeping😴<br>
 # Social Link / 各種リンク
 - [Twitter](https://twitter.com/rokuosan_dev)
 - [GitHub](https://github.com/rokuosan)
-- [HatenaBlog](https://rokuokun.hatenablog.jp/)
+<!-- - [HatenaBlog](https://rokuokun.hatenablog.jp/) -->
 
 <!---
 - 👋 Hi, I’m @rokuosan
